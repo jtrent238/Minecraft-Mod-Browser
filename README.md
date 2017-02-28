@@ -31,4 +31,5 @@ Then whenever you want to Browser to open just invoke `Browser.main();`
     }
 
 To see an example of this being used [Click Here](https://github.com/jtrent238/PopularMMOS-EpicProportions-Mod/wiki/Web-Browser)
+
 To download the sample [Click Here](https://github.com/jtrent238/Minecraft-Mod-Browser/releases/download/1.0.0.0/Browser-Sample.jar).
