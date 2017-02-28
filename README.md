@@ -2,7 +2,7 @@
 Use this to display change logs, etc in a new java window.
 
 ## Setup
-First, you need to Download [Browser.java](https://github.com/jtrent238/Minecraft-Mod-Browser/blob/master/Browser.java), and edit the following to lines **_ONLY_**, **_DO NOT_** Edit any other line.
+First, you need to Download [Browser.java](https://github.com/jtrent238/Minecraft-Mod-Browser/releases/download/1.0.0.0/Browser.java), and edit the following to lines **_ONLY_**, **_DO NOT_** Edit any other line.
 
 * Line 33	
 `private static String URL = "URL HERE";`
